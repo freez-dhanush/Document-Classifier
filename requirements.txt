@@ -5,3 +5,4 @@ transformers
 torch
 sentencepiece
 scikit-learn
+PyPDF2
